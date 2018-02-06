@@ -4,7 +4,7 @@ NodeJS server
 Will comunicate with the web interface via websockets
 and handle serial port communication with ERC board.
 
-It needs ws library (https://github.com/websockets/ws)
+It needs serialport library (https://github.com/node-serialport/node-serialport)
     
      npm install --save serialport
     
