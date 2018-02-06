@@ -22,6 +22,8 @@ Software and Libraries:
 
 NodeJS
 
+ws node library
+
 serialport node library
 
 JQuery
