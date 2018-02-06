@@ -1,0 +1,27 @@
+#display {
+    background-color: black;
+    width: 210px;
+    height: 75px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+#azimuth {
+    color: #37bf15;
+    font-size: 50px;
+    padding: 10px;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-left: 25%;
+}
+
+#azimuth_value {
+    width: 50px;
+    margin: 15px 5px 5px 5px;
+    background-color: darkgrey;
+    border-radius: 5px;
+}
+
+#goBtn {
+    width:160px !important;
+}
