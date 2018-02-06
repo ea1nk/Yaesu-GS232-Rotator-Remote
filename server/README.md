@@ -1,4 +1,5 @@
 NodeJS server
+------------------------------------------------------
 
 Will comunicate with the web interface via websockets
 and handle serial port communication with ERC board.
