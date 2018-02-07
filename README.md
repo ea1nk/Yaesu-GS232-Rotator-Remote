@@ -1,4 +1,4 @@
-# Rotator-Remote
+# Yaesu / GS232 Rotator-Remote
 2012 - SCQ Devices - EA1NK Remote control for Yaesu G1000DXC Antenna Rotator.
 
 This project features a remote control to be used with the Yaesu G1000DXC Antenna Rotator or any GS232 compatible unit.
